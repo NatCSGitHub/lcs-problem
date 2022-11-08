@@ -1,7 +1,6 @@
 #Natasha Needham
-#CS350 Winter 2021
 #Longest Common Subsequence Problem
-#Homework 7
+
 
 
 import time
